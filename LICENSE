@@ -1,3 +1,7 @@
+
+### `LICENSE`
+
+```text
 MIT License
 
 Copyright (c) 2024 gglucabest
@@ -19,3 +23,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+**Note**: You are not permitted to sell or redistribute this software. You must
+include the copyright notice and the license with any distribution of the
+software. This software should not be used for illegal activities. The
+license terms may change at any time, and you should check the license
+frequently for any updates.
+
+If using the software for a commercial project, you must attribute it to
+LucaDevelopment.nl.
+
+**Disclaimer**: We are not responsible for any issues that may arise from the use
+of this software, including but not limited to, damage to your server, data loss,
+or issues related to third-party services. By using this software, you accept
+full responsibility for its use and any consequences that may occur.
